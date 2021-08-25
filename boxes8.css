@@ -1,0 +1,8 @@
+.container .box {
+    position: relative;
+    width: calc(150px - 30px);
+    height: calc(700px - 30px);
+    background-color: #000;
+    float: left;
+    margin: 15px;
+}
